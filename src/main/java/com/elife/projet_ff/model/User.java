@@ -25,6 +25,7 @@ public class User {
     private String password;
     @Field("Phone")
     private String phone;
+    private boolean active;
     
 }
 //to eya
